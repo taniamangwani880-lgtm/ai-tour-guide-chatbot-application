@@ -1,0 +1,7 @@
+{
+  "name": "TourGuide AI",
+  "description": "An AI-powered virtual local guide that helps you explore destinations with personalized itineraries, food recommendations, and local insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
